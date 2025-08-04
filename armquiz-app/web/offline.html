@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Offline Mode</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f4f6f8;
+      text-align: center;
+      padding: 2rem;
+    }
+
+    h1 {
+      font-size: 2em;
+      color: #333;
+    }
+
+    p {
+      font-size: 1.1em;
+      color: #666;
+      margin: 1rem 0;
+    }
+
+    .icon {
+      font-size: 4rem;
+      color: #888;
+      margin-bottom: 1rem;
+    }
+
+    .retry-btn {
+      margin-top: 1.5rem;
+      padding: 0.7rem 1.4rem;
+      font-size: 1rem;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+
+    .retry-btn:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <div class="icon">☁️🚫</div>
+  <h1>You’re Offline</h1>
+  <p>Check your internet connection and try again.</p>
+  <button class="retry-btn" onclick="location.reload()">Retry</button>
+</body>
+</html>

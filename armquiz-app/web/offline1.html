@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Auto Play Music</title>
+</head>
+<body>
+  <h1>Welcome to My Site</h1>
+
+  <!-- Hidden audio element -->
+  <audio id="bg-music" src="music.mp3"></audio>
+
+  <script>
+    window.addEventListener('load', function () {
+      const audio = document.getElementById('bg-music');
+      // Attempt to play after load
+      audio.play().catch(function (error) {
+        console.log('Autoplay was prevented:', error);
+        // Optionally show a play button or alert
+      });
+    });
+  </script>
+</body>
+</html>

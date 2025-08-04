@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ArmQuiz</string>
+    <string name="title_activity_main">ArmQuiz</string>
+    <string name="package_name">com.meetqonline.armquiz</string>
+    <string name="custom_url_scheme">com.meetqonline.armquiz</string>
+</resources>

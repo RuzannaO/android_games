@@ -1,0 +1,10 @@
+{
+  "appId": "com.meetqonline.armquiz",
+  "appName": "ArmQuiz",
+  "webDir": "web",
+  "server": {
+    "url": "https://meetqonline.com/arm-edu?from_app=1",
+    "androidScheme": "https",
+    "cleartext": false
+  }
+}

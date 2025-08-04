@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Settings</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <style>
+
+    * {
+      box-sizing: border-box;
+    }
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    overflow: hidden;
+  }
+
+  .settings-container {
+    background: rgba(255, 255, 255, 0.7);
+    padding: 32px 24px;
+    border-radius: 16px;
+    max-width: 400px;
+    width: 90vw;
+<!--    width: 90%;-->
+    text-align: center;
+    position: relative;
+    z-index: 2;
+  }
+
+  .toggle-switch {
+    position: relative;
+    display: inline-block;
+    width: 70px;
+    height: 36px;
+    vertical-align: middle;
+  }
+
+  .toggle-switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+
+  .slider {
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background-color: #577CA5;
+    border-radius: 36px;
+    cursor: pointer;
+    transition: background-color 0.4s;
+  }
+
+  .slider:before {
+    content: "";
+    position: absolute;
+    height: 28px;
+    width: 28px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    transition: transform 0.4s;
+    border-radius: 50%;
+  }
+
+  .toggle-switch input:checked + .slider {
+    background-color: orange;
+  }
+
+  .toggle-switch input:checked + .slider:before {
+    transform: translateX(34px);
+  }
+
+  .lang-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 14px;
+    margin-bottom: 24px;
+  }
+
+  .lang-label {
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .chunk-controls {
+    margin-top: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+  }
+
+  .chunk-controls label {
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 6px;
+    white-space: nowrap;
+  }
+
+.chunk-controls input {
+  width: clamp(60px, 15vw, 100px);  /* Responsive width: min 60px, preferred 15% of viewport width, max 100px */
+  height: clamp(40px, 8vh, 60px);   /* Responsive height: min 40px, preferred 8% of viewport height, max 60px */
+  font-size: clamp(18px, 5vw, 28px);
+  padding: 0 10px;
+  border-radius: 8px;
+  border: 2px solid #ccc;
+  text-align: center;
+}
+
+
+  .save-btn {
+    background-color: #577CA5;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    padding: 12px 24px;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 24px;
+    transition: background-color 0.3s ease;
+  }
+
+  .save-btn:hover {
+    background-color: #3f5f82;
+  }
+
+  .bg-image-layer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("images/meetq.png");
+    background-size: cover;
+    background-position: center;
+    z-index: 0;
+  }
+
+  .color-overlay-layer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.5);
+    z-index: 1;
+  }
+  </style>
+</head>
+<body>
+<div class="bg-image-layer"></div>
+<div class="color-overlay-layer"></div>
+
+<div class="settings-container">
+  <h2 style="color:#577CA5; margin-bottom:50px;font-size: 50px; text-align: center;">Settings</h2>
+
+  <div class="lang-row" style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <span style="font-size: clamp(20px, 6vw, 28px); font-weight: bold;">Audio Language:</span>
+
+
+
+    <label class="toggle-switch">
+      <input type="checkbox" id="lang-toggle">
+      <span class="slider"></span>
+    </label>
+    <span id="lang-label" class="lang-label" style="color: #577CA5;">English</span>
+  </div>
+
+
+
+  <div class="chunk-controls">
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <label style="font-size: clamp(20px, 6vw, 28px); font-weight: bold;" for="chunk-input">
+        Number of Words:
+      </label>
+      <input type="number" id="chunk-input" min="1" max="20" value="7" />
+    </div>
+  </div>
+
+  <div style="margin-top: 28px; text-align: center; font-weight: bold; font-size: clamp(20px, 6vw, 28px)">
+    <div style="display: inline-block; text-align: center;">
+      <span>Game Level:</span><br>
+      <label style="font-size: 18px; display: block; margin-top: 8px;">
+        <input type="radio" name="game-level" id="level-easy" value="easy"> Easy
+      </label>
+      <label style="font-size: 18px; display: block; margin-top: 8px;">
+        <input type="radio" name="game-level" id="level-difficult" value="difficult"> Difficult
+      </label>
+    </div>
+  </div>
+
+  <button class="save-btn" style="margin-top: 100px; text-align: center;" onclick="saveSettingsAndGoBack()">Save Settings and Go to Main page</button>
+
+
+</div>
+
+<script>
+  const toggle = document.getElementById('lang-toggle');
+  const label = document.getElementById('lang-label');
+  const chunkInput = document.getElementById('chunk-input');
+  const levelEasy = document.getElementById('level-easy');
+  const levelDifficult = document.getElementById('level-difficult');
+
+  // Set toggle from localStorage
+  const savedLang = localStorage.getItem('language');
+  if (savedLang === 'hy') {
+    toggle.checked = true;
+    label.textContent = 'Հայերեն';
+  } else {
+    toggle.checked = false;
+    label.textContent = 'English';
+  }
+
+  // Set chunk size
+  const savedChunkSize = localStorage.getItem('chunkSize');
+  if (savedChunkSize) {
+    chunkInput.value = savedChunkSize;
+  }
+
+  // Set game level
+  const savedLevel = localStorage.getItem('gameLevel') || 'easy';
+  if (savedLevel === 'difficult') {
+    levelDifficult.checked = true;
+  } else {
+    levelEasy.checked = true;
+  }
+
+  toggle.addEventListener('change', function () {
+    if (this.checked) {
+      label.textContent = 'Հայերեն';
+      localStorage.setItem('language', 'hy');
+    } else {
+      label.textContent = 'English';
+      localStorage.setItem('language', 'en');
+    }
+  });
+
+  function saveSettingsAndGoBack() {
+    const chunkSize = parseInt(chunkInput.value);
+    const gameLevel = levelDifficult.checked ? 'difficult' : 'easy';
+    if (chunkSize >= 1 && chunkSize <= 20) {
+      localStorage.setItem('chunkSize', chunkSize);
+      localStorage.setItem('gameLevel', gameLevel);
+      window.location.href = 'word_match_game.html?reload=' + new Date().getTime();
+    } else {
+      alert('Please enter a valid number between 1 and 20.');
+    }
+  }
+</script>
+</body>
+</html>

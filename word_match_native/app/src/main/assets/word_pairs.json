@@ -1,0 +1,1899 @@
+[
+  {
+    "hy": "Համապատասխանություն",
+    "en": "Compliance"
+  },
+  {
+    "hy": "Անհամաձայնություն",
+    "en": "Disagreement"
+  },
+  {
+    "hy": "Հանգամանք",
+    "en": "Circumstance"
+  },
+  {
+    "hy": "Մերժում",
+    "en": "Rejection"
+  },
+  {
+    "hy": "Նպատակահարմարություն",
+    "en": "Expediency"
+  },
+  {
+    "hy": "Անորոշություն",
+    "en": "Uncertainty"
+  },
+  {
+    "hy": "Վերլուծություն",
+    "en": "Analysis"
+  },
+  {
+    "hy": "Ենթադրություն",
+    "en": "Assumption"
+  },
+  {
+    "hy": "Այլընտրանք",
+    "en": "Alternative"
+  },
+  {
+    "hy": "Ցուցադրություն",
+    "en": "Demonstration"
+  },
+  {
+    "hy": "Զեկույց",
+    "en": "Report"
+  },
+  {
+    "hy": "Բողոքարկում",
+    "en": "Appeal"
+  },
+  {
+    "hy": "Հղում",
+    "en": "Citation"
+  },
+  {
+    "hy": "Առարկություն",
+    "en": "Objection"
+  },
+  {
+    "hy": "Միջոցառումներ",
+    "en": "Measures"
+  },
+  {
+    "hy": "Փորձագիտություն",
+    "en": "Expertise"
+  },
+  {
+    "hy": "Բացահայտում",
+    "en": "Revelation"
+  },
+  {
+    "hy": "Հետաքննություն",
+    "en": "Investigation"
+  },
+  {
+    "hy": "Նախապատվություն",
+    "en": "Preference"
+  },
+  {
+    "hy": "Հատկանիշ",
+    "en": "Attribute"
+  },
+  {
+    "hy": "Արտահայտություն",
+    "en": "Expression"
+  },
+  {
+    "hy": "Գործունեություն",
+    "en": "Activity"
+  },
+  {
+    "hy": "Քննարկում",
+    "en": "Discussion"
+  },
+  {
+    "hy": "Համախմբում",
+    "en": "Consolidation"
+  },
+  {
+    "hy": "Փոխզիջում",
+    "en": "Compromise"
+  },
+  {
+    "hy": "Պարզաբանում",
+    "en": "Clarification"
+  },
+  {
+    "hy": "Դիտարկում",
+    "en": "Observation"
+  },
+  {
+    "hy": "Պահպանում",
+    "en": "Maintenance"
+  },
+  {
+    "hy": "Բարելավում",
+    "en": "Improvement"
+  },
+  {
+    "hy": "Ճշգրտում",
+    "en": "Adjustment"
+  },
+  {
+    "hy": "Նպաստ",
+    "en": "Contribution"
+  },
+  {
+    "hy": "Մասնակցություն",
+    "en": "Participation"
+  },
+  {
+    "hy": "Նախապատրաստում",
+    "en": "Preparation"
+  },
+  {
+    "hy": "Ծանուցում",
+    "en": "Notification"
+  },
+  {
+    "hy": "Հաստատում",
+    "en": "Confirmation"
+  },
+  {
+    "hy": "Հասանելիություն",
+    "en": "Availability"
+  },
+  {
+    "hy": "Հարմարավետություն",
+    "en": "Convenience"
+  },
+  {
+    "hy": "Պատասխանատվություն",
+    "en": "Responsibility"
+  },
+  {
+    "hy": "Ճկունություն",
+    "en": "Flexibility"
+  },
+  {
+    "hy": "Վերահսկողություն",
+    "en": "Supervision"
+  },
+  {
+    "hy": "Համակարգում",
+    "en": "Coordination"
+  },
+  {
+    "hy": "Օգնություն",
+    "en": "Assistance"
+  },
+  {
+    "hy": "Գնահատում",
+    "en": "Evaluation"
+  },
+  {
+    "hy": "Հարմարեցում",
+    "en": "Adaptation"
+  },
+  {
+    "hy": "Անհատականացնել",
+    "en": "Customize"
+  },
+  {
+    "hy": "Պատվիրակություն",
+    "en": "Delegation"
+  },
+  {
+    "hy": "Կազմակերպում",
+    "en": "Organization"
+  },
+  {
+    "hy": "Ամրագրում",
+    "en": "Reservation"
+  },
+  {
+    "hy": "Հարկադրել",
+    "en": "Coerce"
+  },
+  {
+    "hy": "Իրականություն",
+    "en": "Reality"
+  },
+  {
+    "hy": "Մտահոգություն",
+    "en": "Concern"
+  },
+  {
+    "hy": "Պահանջ",
+    "en": "Claim"
+  },
+  {
+    "hy": "Առաքում",
+    "en": "Delivery"
+  },
+  {
+    "hy": "Տեղադրում",
+    "en": "Installation"
+  },
+  {
+    "hy": "Հաստատում",
+    "en": "Verification"
+  },
+  {
+    "hy": "Փոխարինում",
+    "en": "Substitution"
+  },
+  {
+    "hy": "Մատչելիություն",
+    "en": "Affordability"
+  },
+  {
+    "hy": "Համեմատություն",
+    "en": "Comparison"
+  },
+  {
+    "hy": "Բաժանորդագրություն",
+    "en": "Subscription"
+  },
+  {
+    "hy": "Ժամկետանց",
+    "en": "Expired"
+  },
+  {
+    "hy": "Գրանցում",
+    "en": "Registration"
+  },
+  {
+    "hy": "Հաստատում",
+    "en": "Authorization"
+  },
+  {
+    "hy": "Գործարք",
+    "en": "Transaction"
+  },
+  {
+    "hy": "Փաստաթուղթ",
+    "en": "Document"
+  },
+  {
+    "hy": "Նույնականացում",
+    "en": "Identification"
+  },
+  {
+    "hy": "Հաղորդակցություն",
+    "en": "Communication"
+  },
+  {
+    "hy": "Բանակցություն",
+    "en": "Negotiation"
+  },
+  {
+    "hy": "Համագործակցություն",
+    "en": "Cooperation"
+  },
+  {
+    "hy": "Համագործակցություն",
+    "en": "Collaboration"
+  },
+  {
+    "hy": "Խանգարում",
+    "en": "Disturbance"
+  },
+  {
+    "hy": "Ծանոթություն",
+    "en": "Familiarity"
+  },
+  {
+    "hy": "Փոխազդեցություն",
+    "en": "Interaction"
+  },
+  {
+    "hy": "Ներգրավվածություն",
+    "en": "Engagement"
+  },
+  {
+    "hy": "Մտադրություն",
+    "en": "Intention"
+  },
+  {
+    "hy": "Սպասելիք",
+    "en": "Expectation"
+  },
+  {
+    "hy": "հաշվի առնել",
+    "en": "Consider"
+  },
+  {
+    "hy": "Ընդհատում",
+    "en": "Interruption"
+  },
+  {
+    "hy": "Բավարարվածություն",
+    "en": "Satisfaction"
+  },
+  {
+    "hy": "Հիասթափություն",
+    "en": "Disappointment"
+  },
+  {
+    "hy": "Հաջողություն",
+    "en": "Achievement"
+  },
+  {
+    "hy": "Նախընտրություն",
+    "en": "Preference"
+  },
+  {
+    "hy": "Առաջարկություն",
+    "en": "Recommendation"
+  },
+  {
+    "hy": "Թույլտվություն",
+    "en": "Permission"
+  },
+  {
+    "hy": "Որոշում",
+    "en": "Decision"
+  },
+  {
+    "hy": "Ընտրություն",
+    "en": "Selection"
+  },
+  {
+    "hy": "Ներառում",
+    "en": "Inclusion"
+  },
+  {
+    "hy": "Բացառում",
+    "en": "Exclusion"
+  },
+  {
+    "hy": "Արտաքին տեսք",
+    "en": "Appearance"
+  },
+  {
+    "hy": "Վարքագիծ",
+    "en": "Behavior"
+  },
+  {
+    "hy": "Արդյունավետություն",
+    "en": "Efficiency"
+  },
+  {
+    "hy": "Արտադրողականություն",
+    "en": "Productivity"
+  },
+  {
+    "hy": "Հուսալիություն",
+    "en": "Reliability"
+  },
+  {
+    "hy": "Խորհրդատվություն",
+    "en": "Consultation"
+  },
+  {
+    "hy": "Պոռթկում",
+    "en": "Outburst"
+  },
+  {
+    "hy": "Շփոթմունք",
+    "en": "Confusion"
+  },
+  {
+    "hy": "Բացատրություն",
+    "en": "Explanation"
+  },
+  {
+    "hy": "Ներկայացում",
+    "en": "Presentation"
+  },
+  {
+    "hy": "Ներողություն",
+    "en": "Apology"
+  },
+  {
+    "hy": "Հոգատարություն",
+    "en": "Care"
+  },
+  {
+    "hy": "Զայրույթ",
+    "en": "Anger"
+  },
+  {
+    "hy": "Անկեղծություն",
+    "en": "Sincerity"
+  },
+  {
+    "hy": "Լարվածություն",
+    "en": "Tension"
+  },
+  {
+    "hy": "Աջակցություն",
+    "en": "Support"
+  },
+  {
+    "hy": "Հանգստություն",
+    "en": "Calmness"
+  },
+  {
+    "hy": "նպաստել",
+    "en": "Contribute"
+  },
+  {
+    "hy": "Զննում",
+    "en": "Inspection"
+  },
+  {
+    "hy": "Վերանորոգում",
+    "en": "Renovation"
+  },
+  {
+    "hy": "Տնային տնտեսություն",
+    "en": "Household"
+  },
+  {
+    "hy": "Խնայողություններ",
+    "en": "Savings"
+  },
+  {
+    "hy": "Վարձակալություն",
+    "en": "Lease"
+
+  },
+  {
+    "hy": "Պատվեր",
+    "en": "Order"
+  },
+  {
+    "hy": "Վերադարձ",
+    "en": "Return"
+  },
+  {
+    "hy": "Համտեսում",
+    "en": "Tasting"
+  },
+  {
+    "hy": "Ուշացում",
+    "en": "Delay"
+  },
+  {
+    "hy": "Անհարմարություն",
+    "en": "Inconvenience"
+  },
+  {
+    "hy": "Տեղեկատվություն",
+    "en": "Information"
+  },
+  {
+    "hy": "Հանդիպում",
+    "en": "Meeting"
+  },
+  {
+    "hy": "Ուղեկցորդ",
+    "en": "Escort"
+  },
+  {
+    "hy": "Պլանավորում",
+    "en": "Planning"
+  },
+  {
+    "hy": "Շինարարություն",
+    "en": "Construction"
+  },
+  {
+    "hy": "Բողոք",
+    "en": "Complaint"
+  },
+  {
+    "hy": "Գնահատական",
+    "en": "Rating"
+  },
+  {
+    "hy": "Հաստատել",
+    "en": "Confirm"
+  },
+  {
+    "hy": "Փոփոխություն",
+    "en": "Change"
+  },
+  {
+    "hy": "ժամադրություն",
+    "en": "Appointment"
+  },
+  {
+    "hy": "Տրամադրություն",
+    "en": "Mood"
+  },
+  {
+    "hy": "Պակասություն",
+    "en": "Deficiency"
+  },
+  {
+    "hy": "Սովորություն",
+    "en": "Habit"
+  },
+  {
+    "hy": "Վարժություն",
+    "en": "Exercise"
+  },
+  {
+    "hy": "Ամենօրյա",
+    "en": "Daily"
+  },
+  {
+    "hy": "Խորհուրդ",
+    "en": "Advice"
+  },
+  {
+    "hy": "Հաշվարկ",
+    "en": "Calculation"
+  },
+  {
+    "hy": "Մատակարարում",
+    "en": "Supply"
+  },
+  {
+    "hy": "Զգուշացում",
+    "en": "Warning"
+  },
+  {
+    "hy": "Անձնագիր",
+    "en": "Passport"
+  },
+  {
+    "hy": "Ճանապարհորդություն",
+    "en": "Travel"
+  },
+  {
+    "hy": "Հետևանք",
+    "en": "Consequence"
+  },
+  {
+    "hy": "Գործընթաց",
+    "en": "Process"
+  },
+  {
+    "hy": "Գնահատում",
+    "en": "Estimate"
+  },
+  {
+    "hy": "Փիլիսոփայություն",
+    "en": "Philosophy"
+  },
+  {
+    "hy": "Ինքնագիտակցություն",
+    "en": "Self-awareness"
+  },
+  {
+    "hy": "Ինքնարտահայտում",
+    "en": "Self-expression"
+  },
+  {
+    "hy": "Գիտակցություն",
+    "en": "Consciousness"
+  },
+  {
+    "hy": "Ենթագիտակցություն",
+    "en": "Subconscious"
+  },
+  {
+    "hy": "Միտում",
+    "en": "Tendency"
+  },
+  {
+    "hy": "Արձագանք",
+    "en": "Reaction"
+  },
+  {
+    "hy": "Ոգեշնչում",
+    "en": "Inspiration"
+  },
+  {
+    "hy": "Կարգավորում",
+    "en": "Regulation"
+  },
+  {
+    "hy": "Վերլուծաբան",
+    "en": "Analyst"
+  },
+  {
+    "hy": "Տեսություն",
+    "en": "Theory"
+  },
+  {
+    "hy": "Փորձարկում",
+    "en": "Experimentation"
+  },
+  {
+    "hy": "Իրականացում",
+    "en": "Implementation"
+  },
+  {
+    "hy": "Գաղափարախոսություն",
+    "en": "Ideology"
+  },
+  {
+    "hy": "Անհամապատասխանություն",
+    "en": "Inconsistency"
+  },
+  {
+    "hy": "Պահանջարկ",
+    "en": "Demand"
+  },
+  {
+    "hy": "Սպեկտր",
+    "en": "Spectrum"
+  },
+  {
+    "hy": "Պատկանելություն",
+    "en": "Affiliation"
+  },
+  {
+    "hy": "Բովանդակություն",
+    "en": "Content"
+  },
+  {
+    "hy": "Վերջնաժամկետ",
+    "en": "Deadline"
+  },
+  {
+    "hy": "Հետադարձ կապ",
+    "en": "Feedback"
+  },
+  {
+    "hy": "Հավաստիություն",
+    "en": "Credibility"
+  },
+  {
+    "hy": "Անհատականություն",
+    "en": "Personality"
+  },
+  {
+    "hy": "Մշակույթ",
+    "en": "Culture"
+  },
+  {
+    "hy": "Բնավորություն",
+    "en": "Character"
+  },
+  {
+    "hy": "Արձանագրություն",
+    "en": "Protocol"
+  },
+  {
+    "hy": "Նախաձեռնություն",
+    "en": "Initiative"
+  },
+  {
+    "hy": "Մեկնաբանություն",
+    "en": "Interpretation"
+  },
+  {
+    "hy": "Վերծանում",
+    "en": "Decoding"
+  },
+  {
+    "hy": "Հիմնավորում",
+    "en": "Justification"
+  },
+  {
+    "hy": "Հայեցակարգ",
+    "en": "Conception"
+  },
+  {
+    "hy": "Նախադեպ",
+    "en": "Precedent"
+  },
+  {
+    "hy": "Հնարավորություն",
+    "en": "Possibility"
+  },
+  {
+    "hy": "Արժանապատվություն",
+    "en": "Dignity"
+  },
+  {
+    "hy": "Սահմանափակում",
+    "en": "Limitation"
+  },
+  {
+    "hy": "Բացառություն",
+    "en": "Exception"
+  },
+  {
+    "hy": "Հավանականություն",
+    "en": "Probability"
+  },
+  {
+    "hy": "Հստակություն",
+    "en": "Clarity"
+  },
+  {
+    "hy": "Պայմանագիր",
+    "en": "Treaty"
+  },
+  {
+    "hy": "Պարտավորություն",
+    "en": "Obligation"
+  },
+  {
+    "hy": "Անհանգիստ",
+    "en": "Anxious"
+  },
+  {
+    "hy": "Մոտեցում",
+    "en": "Approach"
+  },
+  {
+    "hy": "Վիճել",
+    "en": "Argue"
+  },
+  {
+    "hy": "Ճշգրիտ",
+    "en": "Accurate"
+  },
+  {
+    "hy": "Հիանալ",
+    "en": "Admire"
+  },
+  {
+    "hy": "Առավելություն",
+    "en": "Advantage"
+  },
+  {
+    "hy": "Հավակնություն",
+    "en": "Ambition"
+  },
+  {
+    "hy": "Կազմակերպել",
+    "en": "Arrange"
+  },
+  {
+    "hy": "Մասնակցել",
+    "en": "Attend"
+  },
+  {
+    "hy": "Միջին",
+    "en": "Average"
+  },
+  {
+    "hy": "Հավասարակշռություն",
+    "en": "Balance"
+  },
+  {
+    "hy": "Ավելի քան",
+    "en": "Beyond"
+  },
+  {
+    "hy": "Հակիրճ",
+    "en": "Brief"
+  },
+  {
+    "hy": "Ունակ",
+    "en": "Capable"
+  },
+  {
+    "hy": "Անզգույշ",
+    "en": "Careless"
+  },
+  {
+    "hy": "Տոնել",
+    "en": "Celebrate"
+  },
+  {
+    "hy": "Մարտահրավեր",
+    "en": "Challenge"
+  },
+  {
+    "hy": "Միավորել",
+    "en": "Combine"
+  },
+  {
+    "hy": "Բողոքել",
+    "en": "Complain"
+  },
+  {
+    "hy": "Կենտրոնանալ",
+    "en": "Concentrate"
+  },
+  {
+    "hy": "Մտահոգություն",
+    "en": "Concern"
+  },
+  {
+    "hy": "Շփոթեցնել",
+    "en": "Confuse"
+  },
+  {
+    "hy": "Հաշվի առնել",
+    "en": "Consider"
+  },
+  {
+    "hy": "Պարունակել",
+    "en": "Contain"
+  },
+  {
+    "hy": "Համոզել",
+    "en": "Convince"
+  },
+  {
+    "hy": "Ստեղծել",
+    "en": "Create"
+  },
+  {
+    "hy": "Քննադատել",
+    "en": "Criticize"
+  },
+  {
+    "hy": "Հետաքրքրասեր",
+    "en": "Curious"
+  },
+  {
+    "hy": "Վնաս հասցնել",
+    "en": "Damage"
+  },
+  {
+    "hy": "Նվազեցնել",
+    "en": "Decrease"
+  },
+  {
+    "hy": "Հետաձգել",
+    "en": "Delay"
+  },
+  {
+    "hy": "Կախված լինել",
+    "en": "Depend"
+  },
+  {
+    "hy": "Նկարագրել",
+    "en": "Describe"
+  },
+  {
+    "hy": "Նախագծել",
+    "en": "Design"
+  },
+  {
+    "hy": "Ցանկանալ",
+    "en": "Desire"
+  },
+  {
+    "hy": "Զարգանալ",
+    "en": "Develop"
+  },
+  {
+    "hy": "Ուղղորդել",
+    "en": "Direct"
+  },
+  {
+    "hy": "Հայտնաբերել",
+    "en": "Discover"
+  },
+  {
+    "hy": "Կասկածել",
+    "en": "Doubt"
+  },
+  {
+    "hy": "Վաստակել",
+    "en": "Earn"
+  },
+  {
+    "hy": "Ազդեցություն",
+    "en": "Effect"
+  },
+  {
+    "hy": "Ջանք",
+    "en": "Effort"
+  },
+  {
+    "hy": "Զգացմունք",
+    "en": "Emotion"
+  },
+  {
+    "hy": "Խրախուսել",
+    "en": "Encourage"
+  },
+  {
+    "hy": "Ներգրավել",
+    "en": "Engage"
+  },
+  {
+    "hy": "Հսկայական",
+    "en": "Enormous"
+  },
+  {
+    "hy": "Ամբողջական",
+    "en": "Entire"
+  },
+  {
+    "hy": "Հավասար",
+    "en": "Equal"
+  },
+  {
+    "hy": "Էական",
+    "en": "Essential"
+  },
+  {
+    "hy": "Հաստատել",
+    "en": "Establish"
+  },
+  {
+    "hy": "Վերջապես",
+    "en": "Eventually"
+  },
+  {
+    "hy": "Ապացույցներ",
+    "en": "Evidence"
+  },
+  {
+    "hy": "Փոխանակել",
+    "en": "Exchange"
+  },
+  {
+    "hy": "Ակնկալել",
+    "en": "Expect"
+  },
+  {
+    "hy": "Փորձառություն",
+    "en": "Experience"
+  },
+  {
+    "hy": "Ուսումնասիրել",
+    "en": "Explore"
+  },
+  {
+    "hy": "Արտահայտել",
+    "en": "Express"
+  },
+  {
+    "hy": "Ձախողվել",
+    "en": "Fail"
+  },
+  {
+    "hy": "Ծանոթ",
+    "en": "Familiar"
+  },
+  {
+    "hy": "Վախ",
+    "en": "Fear"
+  },
+  {
+    "hy": "Հատկանիշ",
+    "en": "Feature"
+  },
+  {
+    "hy": "Վերջնական",
+    "en": "Final"
+  },
+  {
+    "hy": "Կենտրոնացում",
+    "en": "Focus"
+  },
+  {
+    "hy": "Ստիպել",
+    "en": "Force"
+  },
+  {
+    "hy": "Ներել",
+    "en": "Forgive"
+  },
+  {
+    "hy": "Հաճախակի",
+    "en": "Frequent"
+  },
+  {
+    "hy": "Հավաքել",
+    "en": "Gather"
+  },
+  {
+    "hy": "Առատաձեռն",
+    "en": "Generous"
+  },
+  {
+    "hy": "Նուրբ",
+    "en": "Gentle"
+  },
+  {
+    "hy": "Նպատակ",
+    "en": "Goal"
+  },
+  {
+    "hy": "Ազնիվ",
+    "en": "Honest"
+  },
+  {
+    "hy": "Ինքնություն",
+    "en": "Identity"
+  },
+  {
+    "hy": "Անտեսել",
+    "en": "Ignore"
+  },
+  {
+    "hy": "Պատկերացնել",
+    "en": "Imagine"
+  },
+  {
+    "hy": "Բարելավել",
+    "en": "Improve"
+  },
+  {
+    "hy": "Ներառել",
+    "en": "Include"
+  },
+  {
+    "hy": "Ավելացնել",
+    "en": "Increase"
+  },
+  {
+    "hy": "Անկախ",
+    "en": "Independent"
+  },
+  {
+    "hy": "Տեղեկացնել",
+    "en": "Inform"
+  },
+  {
+    "hy": "Վնասել",
+    "en": "Injure"
+  },
+  {
+    "hy": "Պնդել",
+    "en": "Insist"
+  },
+  {
+    "hy": "Փոխարենը",
+    "en": "Instead"
+  },
+  {
+    "hy": "Ներգրավել",
+    "en": "Involve"
+  },
+  {
+    "hy": "Սահմանափակել",
+    "en": "Limit"
+  },
+  {
+    "hy": "Նշել",
+    "en": "Mention"
+  },
+  {
+    "hy": "Նկատել",
+    "en": "Notice"
+  },
+  {
+    "hy": "Առաջարկել",
+    "en": "Offer"
+  },
+  {
+    "hy": "Գործել",
+    "en": "Operate"
+  },
+  {
+    "hy": "Կարծիք",
+    "en": "Opinion"
+  },
+  {
+    "hy": "Նախընտրել",
+    "en": "Prefer"
+  },
+  {
+    "hy": "Կանխել",
+    "en": "Prevent"
+  },
+  {
+    "hy": "Առաջընթաց",
+    "en": "Progress"
+  },
+  {
+    "hy": "Պատշաճ",
+    "en": "Proper"
+  },
+  {
+    "hy": "Պաշտպանել",
+    "en": "Protect"
+  },
+  {
+    "hy": "Նպատակ",
+    "en": "Purpose"
+  },
+  {
+    "hy": "Ստանալ",
+    "en": "Receive"
+  },
+  {
+    "hy": "Նվազեցնել",
+    "en": "Reduce"
+  },
+  {
+    "hy": "Արտացոլել",
+    "en": "Reflect"
+  },
+  {
+    "hy": "Պահանջել",
+    "en": "Require"
+  },
+  {
+    "hy": "Հարգանք",
+    "en": "Respect"
+  }, 
+  {
+    "hy": "Լքել",
+    "en": "Abandon"
+  },
+  {
+    "hy": "Հարմարեցնել",
+    "en": "Adapt"
+  },
+  {
+    "hy": "Վերլուծել",
+    "en": "Analyze"
+  },
+  {
+    "hy": "Հայտարարել",
+    "en": "Announce"
+  },
+  {
+    "hy": "Տարեկան",
+    "en": "Annual"
+  },
+  {
+    "hy": "Հաստատել",
+    "en": "Approve"
+  },
+  {
+    "hy": "Օգնել",
+    "en": "Assist"
+  },
+  {
+    "hy": "Փորձել",
+    "en": "Attempt"
+  },
+  {
+    "hy": "Օգուտ",
+    "en": "Benefit"
+  },
+  {
+    "hy": "Քանդվել",
+    "en": "Collapse"
+  },
+  {
+    "hy": "Կատարել",
+    "en": "Commit"
+  },
+  {
+    "hy": "Համեմատել",
+    "en": "Compare"
+  },
+  {
+    "hy": "Մրցել",
+    "en": "Compete"
+  },
+  {
+    "hy": "Վարվել",
+    "en": "Conduct"
+  },
+  {
+    "hy": "Կառուցել",
+    "en": "Construct"
+  },
+  {
+    "hy": "Համագործակցել",
+    "en": "Cooperate"
+  },
+  {
+    "hy": "Հայտարարել",
+    "en": "Declare"
+  },
+  {
+    "hy": "Ցուցադրել",
+    "en": "Demonstrate"
+  },
+  {
+    "hy": "Արժանի լինել",
+    "en": "Deserve"
+  },
+  {
+    "hy": "Ավերել",
+    "en": "Destroy"
+  },
+  {
+    "hy": "Նվիրել",
+    "en": "Devote"
+  },
+  {
+    "hy": "Ղեկավարել",
+    "en": "Direct"
+  },
+  {
+    "hy": "Չհամաձայնել",
+    "en": "Disagree"
+  },
+  {
+    "hy": "Բացահայտել",
+    "en": "Discover"
+  },
+  {
+    "hy": "Քննարկել",
+    "en": "Discuss"
+  },
+  {
+    "hy": "Ազատել",
+    "en": "Dismiss"
+  },
+  {
+    "hy": "Ցուցադրել",
+    "en": "Display"
+  },
+  {
+    "hy": "Խանգարել",
+    "en": "Disturb"
+  },
+  {
+    "hy": "Արդյունավետ",
+    "en": "Efficient"
+  },
+  {
+    "hy": "Շեշտել",
+    "en": "Emphasize"
+  },
+  {
+    "hy": "Ապահովել",
+    "en": "Ensure"
+  },
+  {
+    "hy": "Փախչել",
+    "en": "Escape"
+  },
+  {
+    "hy": "Զննել",
+    "en": "Examine"
+  },
+  {
+    "hy": "Ընդլայնել",
+    "en": "Expand"
+  },
+  {
+    "hy": "Բացատրել",
+    "en": "Explain"
+  },
+  {
+    "hy": "Ընդլայնել",
+    "en": "Extend"
+  },
+  {
+    "hy": "Հրապուրել",
+    "en": "Fascinate"
+  },
+  {
+    "hy": "Ստանալ",
+    "en": "Gain"
+  },
+  {
+    "hy": "Ստեղծել",
+    "en": "Generate"
+  },
+  {
+    "hy": "Կառավարել",
+    "en": "Handle"
+  },
+  {
+    "hy": "Նույնականացնել",
+    "en": "Identify"
+  },
+  {
+    "hy": "Լուսաբանել",
+    "en": "Illustrate"
+  },
+  {
+    "hy": "Ազդեցություն",
+    "en": "Impact"
+  },
+  {
+    "hy": "Ազդել",
+    "en": "Influence"
+  },
+  {
+    "hy": "Ներշնչել",
+    "en": "Inspire"
+  },
+  {
+    "hy": "Նպատակ ունենալ",
+    "en": "Intend"
+  },
+  {
+    "hy": "Փոխազդել",
+    "en": "Interact"
+  },
+  {
+    "hy": "Խանգարել",
+    "en": "Interrupt"
+  },
+  {
+    "hy": "Ներկայացնել",
+    "en": "Introduce"
+  },
+  {
+    "hy": "Արդարացնել",
+    "en": "Justify"
+  },
+  {
+    "hy": "Պահպանել",
+    "en": "Maintain"
+  },
+  {
+    "hy": "Կառավարել",
+    "en": "Manage"
+  },
+  {
+    "hy": "Հիշատակել",
+    "en": "Mention"
+  },
+  {
+    "hy": "Մոտիվացնել",
+    "en": "Motivate"
+  },
+  {
+    "hy": "Ստանալ",
+    "en": "Obtain"
+  },
+  {
+    "hy": "Դիտարկել",
+    "en": "Observe"
+  },
+  {
+    "hy": "Գործարկել",
+    "en": "Operate"
+  },
+  {
+    "hy": "Դեմ լինել",
+    "en": "Oppose"
+  },
+  {
+    "hy": "Կազմակերպել",
+    "en": "Organize"
+  },
+  {
+    "hy": "Մասնակցել",
+    "en": "Participate"
+  },
+  {
+    "hy": "Կատարել",
+    "en": "Perform"
+  },
+  {
+    "hy": "Համոզել",
+    "en": "Persuade"
+  },
+  {
+    "hy": "Կանխատեսել",
+    "en": "Predict"
+  },
+  {
+    "hy": "Պատրաստել",
+    "en": "Prepare"
+  },
+  {
+    "hy": "Ներկայացնել",
+    "en": "Present"
+  },
+  {
+    "hy": "Արտադրել",
+    "en": "Produce"
+  },
+  {
+    "hy": "Խոստանալ",
+    "en": "Promise"
+  },
+  {
+    "hy": "Առաջարկել",
+    "en": "Propose"
+  },
+  {
+    "hy": "Ապացուցել",
+    "en": "Prove"
+  },
+  {
+    "hy": "Մատակարարել",
+    "en": "Provide"
+  },
+  {
+    "hy": "Արձագանքել",
+    "en": "React"
+  },
+  {
+    "hy": "Հասկանալ",
+    "en": "Realize"
+  },
+  {
+    "hy": "Խորհուրդ տալ",
+    "en": "Recommend"
+  },
+  {
+    "hy": "Անդրադառնալ",
+    "en": "Reflect"
+  },
+  {
+    "hy": "Մերժել",
+    "en": "Refuse"
+  },
+  {
+    "hy": "Ափսոսանք",
+    "en": "Regret"
+  },
+  {
+    "hy": "Վերաբերել",
+    "en": "Relate"
+  },
+  {
+    "hy": "Ազատ արձակել",
+    "en": "Release"
+  },
+  {
+    "hy": "Վստահել",
+    "en": "Rely"
+  },
+  {
+    "hy": "Նշել",
+    "en": "Remark"
+  },
+  {
+    "hy": "Հեռացնել",
+    "en": "Remove"
+  },
+  {
+    "hy": "Փոխարինել",
+    "en": "Replace"
+  },
+  {
+    "hy": "Ներկայացնել",
+    "en": "Represent"
+  },
+  {
+    "hy": "Դիմադրել",
+    "en": "Resist"
+  },
+  {
+    "hy": "Պատասխանել",
+    "en": "Respond"
+  },
+  {
+    "hy": "Վերականգնել",
+    "en": "Restore"
+  },
+  {
+    "hy": "Արդյունք",
+    "en": "Result"
+  },
+  {
+    "hy": "Բացահայտել",
+    "en": "Reveal"
+  },
+  {
+    "hy": "Վերանայել",
+    "en": "Review"
+  },
+  {
+    "hy": "Բավարարել",
+    "en": "Satisfy"
+  },
+  {
+    "hy": "Որոնել",
+    "en": "Seek"
+  },
+  {
+    "hy": "Ընտրել",
+    "en": "Select"
+  },
+  {
+    "hy": "Առանձնացնել",
+    "en": "Separate"
+  },
+  {
+    "hy": "Փոխել",
+    "en": "Shift"
+  },
+  {
+    "hy": "Բղավել",
+    "en": "Shout"
+  },
+  {
+    "hy": "Լուծել",
+    "en": "Solve"
+  },
+  {
+    "hy": "Տարածել",
+    "en": "Spread"
+  },
+  {
+    "hy": "Ուժեղացնել",
+    "en": "Strengthen"
+  },
+  {
+    "hy": "Պայքարել",
+    "en": "Struggle"
+  },
+  {
+    "hy": "Առաջարկել",
+    "en": "Suggest"
+  },
+  {
+    "hy": "Աջակցել",
+    "en": "Support"
+  },
+  {
+    "hy": "Շրջապատել",
+    "en": "Surround"
+  },
+  {
+    "hy": "Փրկվել",
+    "en": "Survive"
+  },
+  {
+    "hy": "Կասկածել",
+    "en": "Suspect"
+  },
+  {
+    "hy": "Թիրախավորել",
+    "en": "Target"
+  },
+  {
+    "hy": "Սպառնալ",
+    "en": "Threaten"
+  },
+  {
+    "hy": "Փոխադրել",
+    "en": "Transfer"
+  },
+  {
+    "hy": "Թարգմանել",
+    "en": "Translate"
+  },
+  {
+    "hy": "Վստահել",
+    "en": "Trust"
+  },
+  {
+    "hy": "Բացահայտել",
+    "en": "Uncover"
+  },
+  {
+    "hy": "Հասկանալ",
+    "en": "Understand"
+  },
+  {
+    "hy": "Թարմացնել",
+    "en": "Update"
+  },
+  {
+    "hy": "Հորդորել",
+    "en": "Urge"
+  },
+  {
+    "hy": "Տարբերել",
+    "en": "Vary"
+  },
+  {
+    "hy": "Զգուշացնել",
+    "en": "Warn"
+  },
+  {
+    "hy": "Թափոններ",
+    "en": "Waste"
+  },
+  {
+    "hy": "Զարմանալ",
+    "en": "To wonder"
+  },
+  {
+    "hy": "Հասնել",
+    "en": "Achieve"
+  },
+  {
+    "hy": "Ստանալ",
+    "en": "Acquire"
+  },
+  {
+    "hy": "Ընդունել",
+    "en": "Admit"
+  },
+  {
+    "hy": "Թույլ տալ",
+    "en": "Afford"
+  },
+  {
+    "hy": "Փոփոխել",
+    "en": "Alter"
+  },
+  {
+    "hy": "Կանխատեսել",
+    "en": "Anticipate"
+  },
+  {
+    "hy": "Հայտնվել",
+    "en": "Appear"
+  },
+  {
+    "hy": "Ենթադրել",
+    "en": "Assume"
+  },
+  {
+    "hy": "Կցել",
+    "en": "Attach"
+  },
+  {
+    "hy": "Գրավել",
+    "en": "Attract"
+  },
+  {
+    "hy": "Խուսափել",
+    "en": "Avoid"
+  },
+  {
+    "hy": "Վարքագիծ",
+    "en": "Behavior"
+  },
+  {
+    "hy": "Պատկանել",
+    "en": "Belong"
+  },
+  {
+    "hy": "Անհանգստացնել",
+    "en": "Bother"
+  },
+  {
+    "hy": "Դադարեցնել",
+    "en": "Cease"
+  },
+  {
+    "hy": "Պարզաբանել",
+    "en": "Clarify"
+  },
+  {
+    "hy": "Համագործակցել",
+    "en": "Collaborate"
+  },
+  {
+    "hy": "Մեկնաբանել",
+    "en": "Comment"
+  },
+  {
+    "hy": "Համապարփակ",
+    "en": "Comprehensive"
+  },
+  {
+    "hy": "Եզրակացնել",
+    "en": "Conclude"
+  },
+  {
+    "hy": "Դիմակայել",
+    "en": "Confront"
+  },
+  {
+    "hy": "Կապվել",
+    "en": "Connect"
+  },
+  {
+    "hy": "Պահպանել",
+    "en": "Conserve"
+  },
+  {
+    "hy": "Խորհրդակցել",
+    "en": "Consult"
+  },
+  {
+    "hy": "Հետաձգել",
+    "en": "Delay"
+  },
+  {
+    "hy": "Հաճույք",
+    "en": "Delight"
+  },
+  {
+    "hy": "Առաքել",
+    "en": "Deliver"
+  },
+  {
+    "hy": "Հայտնաբերել",
+    "en": "Detect"
+  },
+  {
+    "hy": "Որոշել",
+    "en": "Determine"
+  },
+  {
+    "hy": "Տարբերվել",
+    "en": "Differ"
+  },
+  {
+    "hy": "Նվազեցնել",
+    "en": "Diminish"
+  },
+  {
+    "hy": "Չհավանել",
+    "en": "Disapprove"
+  },
+  {
+    "hy": "Տարածել",
+    "en": "Distribute"
+  },
+  {
+    "hy": "Տարբերակել",
+    "en": "Distinguish"
+  },
+  {
+    "hy": "Տիրապետել",
+    "en": "Dominate"
+  },
+  {
+    "hy": "Ընդունել",
+    "en": "Embrace"
+  },
+  {
+    "hy": "Համբերել",
+    "en": "Endure"
+  },
+  {
+    "hy": "Բարելավել",
+    "en": "Enhance"
+  },
+  {
+    "hy": "Գնահատել",
+    "en": "Evaluate"
+  },
+  {
+    "hy": "Գերազանցել",
+    "en": "Exceed"
+  },
+  {
+    "hy": "Հեշտացնել",
+    "en": "Facilitate"
+  },
+  {
+    "hy": "Ֆինանսավորել",
+    "en": "Finance"
+  },
+  {
+    "hy": "Կանխատեսում",
+    "en": "Forecast"
+  },
+  {
+    "hy": "Ձևակերպել",
+    "en": "Formulate"
+  },
+  {
+    "hy": "Գործառույթ",
+    "en": "Function"
+  },
+  {
+    "hy": "Դրամաշնորհ",
+    "en": "Grant"
+  },
+  {
+    "hy": "Երաշխավորել",
+    "en": "Guarantee"
+  },
+  {
+    "hy": "Ընդգծել",
+    "en": "Highlight"
+  },
+  {
+    "hy": "Իրականացնել",
+    "en": "Implement"
+  },
+  {
+    "hy": "Ենթադրել",
+    "en": "Imply"
+  },
+  {
+    "hy": "Ներմուծել",
+    "en": "Import"
+  },
+  {
+    "hy": "Ներառել",
+    "en": "Incorporate"
+  },
+  {
+    "hy": "Սկսել",
+    "en": "Initiate"
+  },
+  {
+    "hy": "Նորարարություն",
+    "en": "Innovation"
+  },
+  {
+    "hy": "Հարցնել",
+    "en": "Inquire"
+  },
+  {
+    "hy": "Միջամտել",
+    "en": "Intervene"
+  },
+  {
+    "hy": "Հետաքննել",
+    "en": "Investigate"
+  },
+  {
+    "hy": "Առանձնացնել",
+    "en": "Isolate"
+  },
+  {
+    "hy": "Գործարկել",
+    "en": "Launch"
+  },
+  {
+    "hy": "Տեղորոշել",
+    "en": "Locate"
+  },
+  {
+    "hy": "Փոփոխել",
+    "en": "Modify"
+  },
+  {
+    "hy": "Հետևել",
+    "en": "Monitor"
+  },
+  {
+    "hy": "Անտեսել",
+    "en": "Neglect"
+  },
+  {
+    "hy": "Հաղթահարել",
+    "en": "Overcome"
+  },
+  {
+    "hy": "Ընկալել",
+    "en": "Perceive"
+  },
+  {
+    "hy": "Համառել",
+    "en": "Persist"
+  },
+  {
+    "hy": "Ենթադրել",
+    "en": "Presume"
+  },
+  {
+    "hy": "Առաջնահերթություն տալ",
+    "en": "Prioritize"
+  },
+  {
+    "hy": "Շարունակել",
+    "en": "Proceed"
+  },
+  {
+    "hy": "Մշակել",
+    "en": "Process"
+  },
+  {
+    "hy": "Խթանել",
+    "en": "Promote"
+  },
+  {
+    "hy": "Հետապնդել",
+    "en": "Pursue"
+  },
+  {
+    "hy": "Ճանաչել",
+    "en": "Recognize"
+  },
+  {
+    "hy": "Ուժեղացնել",
+    "en": "Reinforce"
+  },
+  {
+    "hy": "Մերժել",
+    "en": "Reject"
+  },
+  {
+    "hy": "Լուծել",
+    "en": "Resolve"
+  },
+  {
+    "hy": "Պահպանել",
+    "en": "Retain"
+  },
+  {
+    "hy": "Մասնավորեցնել",
+    "en": "Specify"
+  }
+  ]

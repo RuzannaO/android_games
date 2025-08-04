@@ -1,0 +1,483 @@
+[
+  {"hy": "Գրասենյակ", "en": "Office"}, {"hy": "Ծով", "en": "Sea"}, {"hy": "Տանձ", "en": "Pear"}, {"hy": "Վայրկյան", "en": "Second"}, {"hy": "Օրենք", "en": "Law"}, {"hy": "Արվեստ", "en": "Art"}, {"hy": "Հիմնադրամ", "en": "Foundation"}, {"hy": "Ժամ", "en": "Hour"}, {"hy": "Փող", "en": "Money"}, {"hy": "Միս", "en": "Meat"}, {"hy": "Բնություն", "en": "Nature"}, {"hy": "Գիրք", "en": "Book"}, {"hy": "Ամիս", "en": "Month"}, {"hy": "Բժիշկ", "en": "Doctor"}, {"hy": "Ֆոտոապարատ", "en": "Photocamera"}, {"hy": "Հաց", "en": "Bread"}, {"hy": "Անտառ", "en": "Forest"}, {"hy": "Գյուղացի", "en": "Peasant"}, {"hy": "Դասախոս", "en": "Lecturer"}, {"hy": "Համակարգիչ", "en": "Computer"}, {"hy": "Քաղաք", "en": "City"}, {"hy": "Անուն", "en": "Name"}, {"hy": "Աշակերտ", "en": "Student"}, {"hy": "Ճանապարհ", "en": "Road"}, {"hy": "Մայր", "en": "Mother"}, {"hy": "Թատրոն", "en": "Theatre"}, {"hy": "Տարի", "en": "Year"}, {"hy": "Երկու", "en": "Two"}, {"hy": "Չորս", "en": "Four"}, {"hy": "Հայր", "en": "Father"}, {"hy": "Գյուղ", "en": "Village"}, {"hy": "Երկխոսություն", "en": "Dialogue"}, {"hy": "Քամի", "en": "Wind"}, {"hy": "Գետ", "en": "River"}, {"hy": "Պղպեղ", "en": "Pepper"}, {"hy": "Լուսին", "en": "Moon"}, {"hy": "Տեսախցիկ", "en": "Camera"}, {"hy": "Տասը", "en": "Ten"}, {"hy": "Յոթ", "en": "Seven"}, {"hy": "Սահմանադրություն", "en": "Constitution"}, {"hy": "Նախագահ", "en": "President"}, {"hy": "Նավ", "en": "Ship"}, {"hy": "Արև", "en": "Sun"}, {"hy": "Խոտ", "en": "Grass"}, {"hy": "Ջուր", "en": "Water"}, {"hy": "Աշխարհ", "en": "World"}, {"hy": "Անհատ", "en": "Individual"}, {"hy": "Համալսարան", "en": "University"}, {"hy": "Խաղ", "en": "Game"}, {"hy": "Խաղող", "en": "Grapes"}, {"hy": "Տուն", "en": "House"}, {"hy": "Ժամանակ", "en": "Time"}, {"hy": "Աշուն", "en": "Autumn"}, {"hy": "Հեռախոս", "en": "Phone"}, {"hy": "Սար", "en": "Mountain"}, {"hy": "Վեց", "en": "Six"}, {"hy": "Աղ", "en": "Salt"}, {"hy": "Խնձոր", "en": "Apple"}, {"hy": "Ամպ", "en": "Cloud"}, {"hy": "Դուռ", "en": "Door"}, {"hy": "Գրիչ", "en": "Pen"}, {"hy": "Ինը", "en": "Nine"}, {"hy": "Կաթ", "en": "Milk"}, {"hy": "Ծրագիր", "en": "Program"}, {"hy": "Լիճ", "en": "Lake"}, {"hy": "Հինգ", "en": "Five"}, {"hy": "Հովիվ", "en": "Shepherd"}, {"hy": "Երեք", "en": "Three"}, {"hy": "Օվկիանոս", "en": "Ocean"}, {"hy": "Բանակ", "en": "Army"}, {"hy": "Հեռուստատեսություն", "en": "Television"}, {"hy": "Ոստիկան", "en": "Policeman"}, {"hy": "Օդանավ", "en": "Airplane"}, {"hy": "Քննություն", "en": "Exam"}, {"hy": "Երկինք", "en": "Sky"}, {"hy": "Հիվանդանոց", "en": "Hospital"}, {"hy": "Աշխատանք", "en": "Work"}, {"hy": "Քաղաքապետ", "en": "Mayor"}, {"hy": "Կինո", "en": "Cinema"}, {"hy": "Աթոռ", "en": "Chair"}, {"hy": "Քաղաքացի", "en": "Citizen"}, {"hy": "Ծաղիկ", "en": "Flower"}, {"hy": "Ձայնագրիչ", "en": "Recorder"}, {"hy": "Ամառ", "en": "Summer"}, {"hy": "Տնօրեն", "en": "Principal"}, {"hy": "Ձուկ", "en": "Fish"}, {"hy": "Գրադարան", "en": "Library"}, {"hy": "Ուսուցիչ", "en": "Teacher"}, {"hy": "Տերև", "en": "Leaf"}, {"hy": "Քանդակ", "en": "Sculpture"}, {"hy": "Եղբայր", "en": "Brother"}, {"hy": "Աստղ", "en": "Star"}, {"hy": "Երաժշտություն", "en": "Music"}, {"hy": "Վաճառող", "en": "Seller"}, {"hy": "Ավտոմեքենա", "en": "Car"}, {"hy": "Նկարչություն", "en": "Painting"}, {"hy": "Վարորդ", "en": "Driver"}, {"hy": "Դասարան", "en": "Class"}, {"hy": "Թերթ", "en": "Newspaper"}, {"hy": "Ինտերնետ", "en": "Internet"}, {"hy": "Ցանց", "en": "Network"}, {"hy": "Օր", "en": "Day"}, {"hy": "Րոպե", "en": "Minute"}, {"hy": "Ձայն", "en": "Voice"}, {"hy": "Նախարար", "en": "Minister"}, {"hy": "Նկար", "en": "Picture"}, {"hy": "Բուժարան", "en": "Clinic"}, {"hy": "Բույս", "en": "Plant"}, {"hy": "Երեխա", "en": "Child"}, {"hy": "Բանջարեղեն", "en": "Vegetable"}, {"hy": "Գիտություն", "en": "Science"}, {"hy": "Գիշեր", "en": "Night"}, {"hy": "Հող", "en": "Soil"}, {"hy": "Գարուն", "en": "Spring"}, {"hy": "Պանիր", "en": "Cheese"}, {"hy": "Քույր", "en": "Sister"}, {"hy": "Բանան", "en": "Banana"}, {"hy": "Բանվոր", "en": "Worker"}, {"hy": "Ժամացույց", "en": "Clock"}, {"hy": "Ճարտարապետ", "en": "Architect"}, {"hy": "Երկիր", "en": "Country"}, {"hy": "Գիտնական", "en": "Scientist"}, {"hy": "Պատմություն", "en": "History"}, {"hy": "Կաթնաշոռ", "en": "Cottagecheese"}, {"hy": "Նամակ", "en": "Letter"}, {"hy": "Դպրոց", "en": "School"}, {"hy": "Նավթ", "en": "Oil"}, {"hy": "Մարդ", "en": "Person"}, {"hy": "Գործարան", "en": "Factory"}, {"hy": "Ծառ", "en": "Tree"}, {"hy": "Ձու", "en": "Egg"}, {"hy": "Ձկնորս", "en": "Fisherman"}, {"hy": "Ձմեռ", "en": "Winter"}, {"hy": "Անապատ", "en": "Desert"}, {"hy": "Դատավոր", "en": "Judge"}, {"hy": "Մեկ", "en": "One"}, {"hy": "Բանկ", "en": "Bank"}, {"hy": "Պատուհան", "en": "Window"}, {"hy": "Սեղան", "en": "Table"}, {"hy": "Ութ", "en": "Eight"}, {"hy": "Շաբաթ", "en": "Week"}, {"hy": "Մատիտ", "en": "Pencil"}, {"hy": "Խոհարար", "en": "Cook"}, {"hy": "Պար", "en": "Dance"}, 
+  {
+    "hy": "Ժպիտ",
+    "en": "Smile"
+  },
+  {
+    "hy": "Օճառ",
+    "en": "Soap"
+  },
+  {
+    "hy": "Գուլպա",
+    "en": "Sock"
+  },
+  {
+    "hy": "Որդի",
+    "en": "Son"
+  },
+  {
+    "hy": "Գդալ",
+    "en": "Spoon"
+  },
+  {
+    "hy": "Պատմություն",
+    "en": "Story"
+  },
+  {
+    "hy": "Սփռոց",
+    "en": "Tablecloth"
+  },
+  {
+    "hy": "Թեյ",
+    "en": "Tea"
+  },
+  {
+    "hy": "Ուսուցիչ",
+    "en": "Teacher"
+  },
+  {
+    "hy": "Ջերմաստիճան",
+    "en": "Temperature"
+  },
+  {
+    "hy": "Հովանոց",
+    "en": "Umbrella"
+  },
+  {
+    "hy": "Ջուր",
+    "en": "Water"
+  },
+  {
+    "hy": "Կին",
+    "en": "Woman"
+  },
+  {
+    "hy": "Կենդանաբանական այգի",
+    "en": "Zoo"
+  },
+  {
+    "hy": "Օդանավակայան",
+    "en": "Airport"
+  },
+  {
+    "hy": "Լողափ",
+    "en": "Beach"
+  },
+  {
+    "hy": "Գրախանութ",
+    "en": "Bookstore"
+  },
+  {
+    "hy": "Կամուրջ",
+    "en": "Bridge"
+  },
+  {
+    "hy": "Թիթեռ",
+    "en": "Butterfly"
+  },
+  {
+    "hy": "Մոմ",
+    "en": "Candle"
+  },
+  {
+    "hy": "Ամրոց",
+    "en": "Castle"
+  },
+  {
+    "hy": "Աթոռ",
+    "en": "Chair"
+  },
+  {
+    "hy": "Խոհարար",
+    "en": "Chef"
+  },
+  {
+    "hy": "Շոկոլադ",
+    "en": "Chocolate"
+  },
+  {
+    "hy": "Եկեղեցի",
+    "en": "Church"
+  },
+  {
+    "hy": "Շրջան",
+    "en": "Circle"
+  },
+  {
+    "hy": "Վերարկու",
+    "en": "Coat"
+  },
+  {
+    "hy": "Սուրճ",
+    "en": "Coffee"
+  },
+  {
+    "hy": "Օձիք",
+    "en": "Collar"
+  },
+  {
+    "hy": "Թխվածքաբլիթ",
+    "en": "Cookie"
+  },
+  {
+    "hy": "Եգիպտացորեն",
+    "en": "Corn"
+  },
+  {
+    "hy": "Բազմոց",
+    "en": "Couch"
+  },
+  {
+    "hy": "Պայուսակ",
+    "en": "Bag"
+  },
+  {
+    "hy": "Գնդակ",
+    "en": "Ball"
+  },
+  {
+    "hy": "Ծննդյան օր",
+    "en": "Birthday"
+  },
+  {
+    "hy": "Ապակի",
+    "en": "Glass"
+  },
+  {
+    "hy": "Մազեր",
+    "en": "Hair"
+  },
+  {
+    "hy": "Ձեռք",
+    "en": "Hand"
+  },
+  {
+    "hy": "Գլուխ",
+    "en": "Head"
+  },
+  {
+    "hy": "Հյուրանոց",
+    "en": "Hotel"
+  },
+  {
+    "hy": "Բաճկոն",
+    "en": "Jacket"
+  },
+  {
+    "hy": "Բանալի",
+    "en": "Key"
+  },
+  {
+    "hy": "Լամպ",
+    "en": "Lamp"
+  },
+  {
+    "hy": "Ոտք",
+    "en": "Leg"
+  },
+  {
+    "hy": "Շուկա",
+    "en": "Market"
+  },
+  {
+    "hy": "Խաղալ",
+    "en": "Play"
+  },
+  {
+    "hy": "Անձրև",
+    "en": "Rain"
+  },
+  {
+    "hy": "Ձյուն",
+    "en": "Snow"
+  },
+  {
+    "hy": "Փողոց",
+    "en": "Street"
+  },
+  {
+    "hy": "Փուչիկ",
+    "en": "Balloon"
+  },
+  {
+    "hy": "Շիշ",
+    "en": "Bottle"
+  },
+  {
+    "hy": "Կարագ",
+    "en": "Butter"
+  },
+  {
+    "hy": "Քաղցրավենիք",
+    "en": "Candy"
+  },
+  {
+    "hy": "Կատու",
+    "en": "Cat"
+  },
+  {
+    "hy": "Մրգեր",
+    "en": "Fruit"
+  },
+  {
+    "hy": "Աղջիկ",
+    "en": "Girl"
+  },
+  {
+    "hy": "Ձեռնոց",
+    "en": "Glove"
+  },
+  {
+    "hy": "Ոսկի",
+    "en": "Gold"
+  },
+  {
+    "hy": "Լավ",
+    "en": "Good"
+  },
+  {
+    "hy": "Կանաչ",
+    "en": "Green"
+  },
+  {
+    "hy": "Գլխարկ",
+    "en": "Hat"
+  },
+  {
+    "hy": "Սիրտ",
+    "en": "Heart"
+  },
+  {
+    "hy": "Տուն",
+    "en": "Home"
+  },
+  {
+    "hy": "Ձի",
+    "en": "Horse"
+  },
+  {
+    "hy": "Սառույց",
+    "en": "Ice"
+  },
+  {
+    "hy": "Կղզի",
+    "en": "Island"
+  },
+  {
+    "hy": "Աշխատանք",
+    "en": "Job"
+  },
+  {
+    "hy": "Հյութ",
+    "en": "Juice"
+  },
+  {
+    "hy": "Խոհանոց",
+    "en": "Kitchen"
+  },
+  {
+    "hy": "Դանակ",
+    "en": "Knife"
+  },
+  {
+    "hy": "Լույս",
+    "en": "Light"
+  },
+  {
+    "hy": "Գիծ",
+    "en": "Line"
+  },
+  {
+    "hy": "Առյուծ",
+    "en": "Lion"
+  },
+  {
+    "hy": "Ճաշ",
+    "en": "Lunch"
+  },
+  {
+    "hy": "Մեքենա",
+    "en": "Machine"
+  },
+  {
+    "hy": "Մկնիկ",
+    "en": "Mouse"
+  },
+  {
+    "hy": "Քիթ",
+    "en": "Nose"
+  },
+  {
+    "hy": "Նարնջագույն",
+    "en": "Orange"
+  },
+  {
+    "hy": "Էջ",
+    "en": "Page"
+  },
+  {
+    "hy": "Ներկել",
+    "en": "Paint"
+  },
+  {
+    "hy": "Թուղթ",
+    "en": "Paper"
+  },
+  {
+    "hy": "Այգի",
+    "en": "Park"
+  },
+  {
+    "hy": "Խնջույք",
+    "en": "Party"
+  },
+  {
+    "hy": "Խոզ",
+    "en": "Pig"
+  },
+  {
+    "hy": "Սենյակ",
+    "en": "Room"
+  },
+  {
+    "hy": "Սերմ",
+    "en": "Seed"
+  },
+  {
+    "hy": "Ոչխար",
+    "en": "Sheep"
+  },
+  {
+    "hy": "Վերնաշապիկ",
+    "en": "Shirt"
+  },
+  {
+    "hy": "Կոշիկներ",
+    "en": "Shoes"
+  },
+  {
+    "hy": "Երգ",
+    "en": "Song"
+  },
+  {
+    "hy": "Հրեշտակ",
+    "en": "Angel"
+  },
+  {
+    "hy": "Մրջյուն",
+    "en": "Ant"
+  },
+  {
+    "hy": "Մանկիկ",
+    "en": "Baby"
+  },
+  {
+    "hy": "Պարահանդեսային դահլիճ",
+    "en": "Ballroom"
+  },
+  {
+    "hy": "Բար",
+    "en": "Bar"
+  },
+  {
+    "hy": "Չղջիկ",
+    "en": "Bat"
+  },
+  {
+    "hy": "Լոգարան",
+    "en": "Bath"
+  },
+  {
+    "hy": "Արջ",
+    "en": "Bear"
+  },
+  {
+    "hy": "Մորուք",
+    "en": "Beard"
+  },
+  {
+    "hy": "Մեղու",
+    "en": "Bee"
+  },
+  {
+    "hy": "Հեծանիվ",
+    "en": "Bicycle"
+  },
+  {
+    "hy": "Թռչուն",
+    "en": "Bird"
+  },
+  {
+    "hy": "Նավակ",
+    "en": "Boat"
+  },
+  {
+    "hy": "Մարմին",
+    "en": "Body"
+  },
+  {
+    "hy": "Ոսկոր",
+    "en": "Bone"
+  },
+  {
+    "hy": "Կոշիկ",
+    "en": "Boot"
+  },
+  {
+    "hy": "Տղա",
+    "en": "Boy"
+  },
+  {
+    "hy": "Ուղեղ",
+    "en": "Brain"
+  },
+  {
+    "hy": "Ճյուղ",
+    "en": "Branch"
+  },
+  {
+    "hy": "Կոտրում",
+    "en": "Break"
+  },
+  {
+    "hy": "Փուչիկ",
+    "en": "Bubble"
+  },
+  {
+    "hy": "Շենք",
+    "en": "Building"
+  },
+  {
+    "hy": "Կոճակ",
+    "en": "Button"
+  },
+  {
+    "hy": "Տորթ",
+    "en": "Cake"
+  },
+  {
+    "hy": "Հաշվիչ",
+    "en": "Calculator"
+  },
+  {
+    "hy": "Ճամբար",
+    "en": "Camp"
+  },
+  {
+    "hy": "Գլխարկ",
+    "en": "Cap"
+  },
+  {
+    "hy": "Գորգ",
+    "en": "Carpet"
+  },
+  {
+    "hy": "Զամբյուղ",
+    "en": "Cart"
+  },
+  {
+    "hy": "Շղթա",
+    "en": "Chain"
+  }
+]

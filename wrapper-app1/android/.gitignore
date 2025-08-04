@@ -1,0 +1,78 @@
+# Based on: https://github.com/github/gitignore/blob/HEAD/Android.gitignore
+
+# === Android Build Artifacts ===
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Dalvik/ART VM files
+*.dex
+
+# Java class files
+*.class
+
+# Compiled files and intermediate folders
+/bin/
+/gen/
+/out/
+/build/
+/.cxx/
+/.externalNativeBuild/
+
+# Gradle files and local environment
+.gradle/
+/local.properties
+
+# ProGuard/Eclipse
+/proguard/
+
+# Log files
+*.log
+
+# Android Studio & IntelliJ project files
+*.iml
+.idea/
+/.idea/*
+!.idea/codeStyles/
+
+# Android Studio captures & temp
+captures/
+/.navigation/
+
+# Lint
+lint/
+/lint*/**
+
+# Profiling
+*.hprof
+
+# === Capacitor Specific ===
+capacitor-cordova-android-plugins/
+app/src/main/assets/public/
+/app/src/main/assets/capacitor.config.json
+/app/src/main/assets/capacitor.plugins.json
+/app/src/main/res/xml/config.xml
+
+# === Keystore Files ===
+# Important: Keep these lines uncommented to protect sensitive signing keys
+*.jks
+*.keystore
+
+# === Google Services ===
+# Uncomment if using Firebase
+# google-services.json
+
+# === Fastlane (if used) ===
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+fastlane/readme.md
+
+# === Version Control Metadata ===
+vcs.xml
+
+
+
+readme.txt

@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>About the Game</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+  <style>
+
+    * {
+  box-sizing: border-box;
+      }   /This ensures paddings/margins don't cause width overflow:/
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      overflow-x: hidden;
+    }
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 100vh;
+  font-family: sans-serif;
+  background: #f7f7f7;
+  margin: 0;
+  padding: 0;
+}
+
+body::after {
+  content: '';
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 100vw;
+  width: 5px;
+  height: 100vh;
+  background: red;
+  z-index: 9999;
+}
+
+
+    .bg-image-layer {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-image: url("images/meetq.png");
+      background-size: cover;
+      background-position: center;
+      z-index: 0;
+    }
+
+    .color-overlay-layer {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(255, 255, 255, 0.5);
+      z-index: 1;
+    }
+
+
+.container {
+  margin: 0 auto;
+  padding: 32px 24px 80px 24px;  /* bottom padding added */
+  max-width: 600px;
+  width: 90vw;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.1);
+  z-index: 500;
+}
+
+    h1 {
+      color: #577CA5;
+      margin-bottom: 24px;
+    }
+
+    p {
+      text-align: justify;
+      color: #333;
+      font-size: 16px;
+      line-height: 1.6;
+    }
+
+    .back-btn {
+      margin-top: 20px;
+      padding: 12px 28px;
+      font-size: 20px;
+      border-radius: 10px;
+      border: 2px solid #577CA5;
+      background: #577CA5;
+      color: white;
+      cursor: pointer;
+      font-weight: bold;
+      transition: background 0.2s;
+    }
+
+    .back-btn:hover {
+      background: #3f5f82;
+    }
+
+
+    #meetq-logo {
+    display: block;
+    text-align: center;
+    margin: 100px auto 20px auto;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: rgb(235, 121, 0);
+    position: relative;
+    z-index: 600;
+    cursor: pointer;
+    margin-top: 300px;
+    }
+
+    @media (max-width: 600px) {
+    #meetq-logo {
+      margin-top: 50px;
+      font-size: 18px;
+    }
+    }
+
+    @media (min-width: 601px) and (max-width: 1024px) {
+    #meetq-logo {
+      margin-top: 80px;
+      font-size: 20px;
+    }
+    }
+
+.footer-fixed {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgb(226, 118, 0);
+  color: white;
+  text-align: center;
+  padding: 12px 0;
+  font-size: 16px;
+  z-index: 999;
+}
+
+.footer-fixed a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.footer-fixed a:hover {
+  text-decoration: underline;
+}
+
+
+  </style>
+</head>
+<body>
+
+<div class="bg-image-layer"></div>
+<div class="color-overlay-layer"></div>
+
+<div class="container">
+
+
+  <h1>About the Game</h1>
+<!--  <h2 id="rotating-text" style="-->
+<!--  text-align: center;-->
+<!--  margin-top: 20px;-->
+<!--  font-size: 24px;-->
+<!--  font-weight: bold;-->
+<!--  color: rgb(235,121,0);-->
+<!--  line-height: 1.4;-->
+<!--  height: 3.5em; /* adjust as needed to fit the tallest phrase */-->
+<!--  display: flex;-->
+<!--  align-items: center;-->
+<!--  justify-content: center;-->
+<!--  text-align: center;-->
+<!--">Perfect for learners<br>of all ages!-->
+<!--  </h2>-->
+
+
+  <div style="font-weight: bold;">
+    <div style="text-indent: 20px; margin-bottom: 7px;">
+      Improve your vocabulary through fun word-matching challenges.
+    </div>
+    <div style="text-indent: 20px; margin-bottom: 7px;">
+      Switch between English and Armenian audio to improve pronunciation.
+    </div>
+    <div style="text-indent: 20px; margin-bottom: 7px;">
+      Choose between Easy and Difficult levels to match your skill.
+    </div>
+    <div style="text-indent: 20px; margin-bottom: 7px;">
+      Some words may have similar meanings — choose the most appropriate match.
+    </div>
+
+  </div>
+
+  <h2 style="margin-bottom:20px;font-size: 22px">Perfect for learners of all ages!</h2>
+
+  <h1>Խաղի Մասին</h1>
+  <div style="font-weight: bold;">
+    <div style="text-indent: 20px; margin-bottom: 7px;">
+      Բարելավեք ձեր բառապաշարը մեր զվարճալի խաղի միջոցով:
+    </div>
+    <div style="text-indent: 20px; margin-bottom: 7px;">Փոխեք ձայնի լեզուն՝ ձեր արտասանությունը բարելավելու համար։
+    </div>
+    <div style="text-indent: 20px; margin-bottom: 7px;">Ընտրեք մակարդակները՝ համապատասխան ձեր գիտելիքներին։
+    </div>
+    <div style="text-indent: 20px; margin-bottom: 7px;">Որոշ բառեր կարող են ունենալ նմանատիպ իմաստներ — ընտրեք ամենամոտ տարբերակը։
+    </div>
+
+    <h2 style="margin-bottom:20px;font-size: 22px">Հիանալի է բոլոր տարիքի<br>սովորողների համար։</h2>
+  </div>
+
+    <div style="display: flex; gap: 10px; justify-content: center; margin-top: 5px;">
+      <button class="back-btn" style="padding: 4px 8px; font-size: 20px;" onclick="window.location.href='word_match_game.html'">Back to Game</button>
+      <button class="back-btn" style="padding: 4px 8px; font-size: 20px;" onclick="window.location.href='settings.html'">Go to Settings</button>
+    </div>
+
+</div>
+
+
+<div class="footer-fixed" id="meetq-logo">
+  <a style="width: 100%;">MeetqOnline School</a>
+</div>
+
+<!--    <div id="meetq-logo" style="font-size: 25px; color: #2e7cd9;text-align: center;-->
+<!--        text-shadow:-->
+<!--        -1px -1px 0 orange,-->
+<!--        1px -1px 0 orange,-->
+<!--        -1px  1px 0 orange,-->
+<!--        1px  1px 0 orange;">Meetq Online School</div>-->
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const logo = document.getElementById("meetq-logo");
+    logo.addEventListener("click", function () {
+      if (typeof Android !== "undefined" && typeof Android.openWebsite === "function") {
+        Android.openWebsite(); // Use Kotlin method in WebView app
+      } else {
+        window.open("https://meetqonline.com", "_blank"); // Open in browser
+      }
+    });
+  });
+</script>
+
+<script>
+  const phrases = [
+    "Perfect for learners<br>of all ages!",
+    "Հիանալի է բոլոր տարիքի<br>սովորողների համար։"
+  ];
+  let index = 0;
+
+  setInterval(() => {
+    index = (index + 1) % phrases.length;
+    document.getElementById("rotating-text").innerHTML = phrases[index];
+  }, 6000);
+</script>
+
+</body>
+</html>

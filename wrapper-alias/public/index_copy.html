@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Loading MeetQLingo</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      margin-top: 30%;
+    }
+  </style>
+</head>
+<body>
+  <p>🔄 Connecting to MeetQLingo...</p>
+
+  <script>
+    // Wait for Capacitor plugins to be ready
+    window.addEventListener('DOMContentLoaded', () => {
+      const djangoUrl = "http://192.168.1.8:8000/meetqlingo?from_app=1";
+
+      // Use Capacitor native HTTP plugin (no CORS / mixed content issues)
+      Capacitor.Plugins.CapacitorHttp.get({ url: djangoUrl })
+        .then(() => {
+          // Server is reachable, redirect
+          window.location.href = djangoUrl;
+        })
+        .catch((error) => {
+          console.warn("Django server unreachable:", error);
+          // Show offline fallback
+          window.location.href = "offline.html";
+        });
+    });
+  </script>
+</body>
+</html>
